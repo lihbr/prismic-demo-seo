@@ -1,10 +1,10 @@
 {
-  "name": "NAME",
+  "name": "prismic-demo-seo",
   "version": "0.0.0",
-  "description": "DESCRIPTION",
+  "description": "An SEO demo showcasing sitmap creation and meta tags handling with Prismic",
   "private": true,
   "author": "lihbr <hello@lihbr.com> (https://lihbr.com)",
-  "license": "SEE LICENSE IN LICENSE",
+  "license": "MIT",
   "scripts": {},
   "engines": {
     "node": ">=10.16.3",
