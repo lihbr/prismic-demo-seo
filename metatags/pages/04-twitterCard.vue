@@ -6,7 +6,7 @@
 </template>
 
 <script>
-const SITE_URL = "https://example.com";
+const SITE_URL = "https://prismic-demo-seo.netlify.app";
 
 const formatMeta = (document, path = "") => {
   const {

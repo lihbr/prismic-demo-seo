@@ -5,7 +5,7 @@ const { SitemapStream, streamToPromise } = require('sitemap');
 
 const API_ENDPOINT = "https://prismic-demo-seo.cdn.prismic.io/api/v2";
 const MASTER_LOCALE = "en-us";
-const SITE_URL = "https://example.com";
+const SITE_URL = "https://prismic-demo-seo.netlify.app";
 
 const linkResolver = doc => {
   const prefix = doc.lang !== MASTER_LOCALE ? `/${doc.lang}` : "";
