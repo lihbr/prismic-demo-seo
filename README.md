@@ -1,6 +1,6 @@
-# prismic-demo-basic
+# prismic-demo-seo
 
-This simple demo is meant to showcase how to handle basic SEO things with Prismic like sitemap creation and meta tags handling.
+This simple demo is meant to showcase how to handle SEO things with Prismic like sitemap creation and meta tags handling.
 
 - [✨ &nbsp;Try Prismic](https://prismic.io/pricing?utm_campaign=devexp&utm_source=github&utm_medium=demoseo)
 - [📖 &nbsp;Prismic documentation](https://prismic.io/docs?utm_campaign=devexp&utm_source=github&utm_medium=demoseo)
